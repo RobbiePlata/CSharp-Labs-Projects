@@ -1,0 +1,33 @@
+C:\Users\RobbiePlata\Desktop\Project II BookStore\Project II BookStore\bin\Debug\Project II BookStore.exe.config
+C:\Users\RobbiePlata\Desktop\Project II BookStore\Project II BookStore\bin\Debug\Project II BookStore.exe
+C:\Users\RobbiePlata\Desktop\Project II BookStore\Project II BookStore\bin\Debug\Project II BookStore.pdb
+C:\Users\RobbiePlata\Desktop\Project II BookStore\Project II BookStore\obj\Debug\Project II BookStore.csprojResolveAssemblyReference.cache
+C:\Users\RobbiePlata\Desktop\Project II BookStore\Project II BookStore\obj\Debug\Project_II_BookStore.EmployeeAccessIDEntryForm.resources
+C:\Users\RobbiePlata\Desktop\Project II BookStore\Project II BookStore\obj\Debug\Project_II_BookStore.EmployeePinEntryForm.resources
+C:\Users\RobbiePlata\Desktop\Project II BookStore\Project II BookStore\obj\Debug\Project_II_BookStore.Properties.Resources.resources
+C:\Users\RobbiePlata\Desktop\Project II BookStore\Project II BookStore\obj\Debug\Project_II_BookStore.TransactionSelectForm.resources
+C:\Users\RobbiePlata\Desktop\Project II BookStore\Project II BookStore\obj\Debug\Project II BookStore.csproj.GenerateResource.Cache
+C:\Users\RobbiePlata\Desktop\Project II BookStore\Project II BookStore\obj\Debug\Project II BookStore.exe
+C:\Users\RobbiePlata\Desktop\Project II BookStore\Project II BookStore\obj\Debug\Project II BookStore.pdb
+C:\Users\Rob\Desktop\Project II BookStore\Project II BookStore\bin\Debug\Project II BookStore.exe.config
+C:\Users\Rob\Desktop\Project II BookStore\Project II BookStore\obj\Debug\Project II BookStore.exe
+C:\Users\Rob\Desktop\Project II BookStore\Project II BookStore\obj\Debug\Project II BookStore.pdb
+C:\Users\Rob\Desktop\Project II BookStore\Project II BookStore\obj\Debug\Project II BookStore.csprojResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\Project II BookStore\Project II BookStore\obj\Debug\Project_II_BookStore.EmployeeAccessIDEntryForm.resources
+C:\Users\Rob\Desktop\Project II BookStore\Project II BookStore\obj\Debug\Project_II_BookStore.EmployeePinEntryForm.resources
+C:\Users\Rob\Desktop\Project II BookStore\Project II BookStore\obj\Debug\Project_II_BookStore.Properties.Resources.resources
+C:\Users\Rob\Desktop\Project II BookStore\Project II BookStore\obj\Debug\Project_II_BookStore.TransactionSelectForm.resources
+C:\Users\Rob\Desktop\Project II BookStore\Project II BookStore\obj\Debug\Project II BookStore.csproj.GenerateResource.Cache
+C:\Users\Rob\Desktop\Project II BookStore\Project II BookStore\bin\Debug\Project II BookStore.exe
+C:\Users\Rob\Desktop\Project II BookStore\Project II BookStore\bin\Debug\Project II BookStore.pdb
+C:\Users\Rob\Desktop\Robert Plata Project II BookStore\Project II BookStore\bin\Debug\Project II BookStore.exe.config
+C:\Users\Rob\Desktop\Robert Plata Project II BookStore\Project II BookStore\obj\Debug\Project II BookStore.exe
+C:\Users\Rob\Desktop\Robert Plata Project II BookStore\Project II BookStore\obj\Debug\Project II BookStore.pdb
+C:\Users\Rob\Desktop\Robert Plata Project II BookStore\Project II BookStore\bin\Debug\Project II BookStore.exe
+C:\Users\Rob\Desktop\Robert Plata Project II BookStore\Project II BookStore\bin\Debug\Project II BookStore.pdb
+C:\Users\Rob\Desktop\Robert Plata Project II BookStore\Project II BookStore\obj\Debug\Project II BookStore.csprojResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\Robert Plata Project II BookStore\Project II BookStore\obj\Debug\Project_II_BookStore.EmployeeAccessIDEntryForm.resources
+C:\Users\Rob\Desktop\Robert Plata Project II BookStore\Project II BookStore\obj\Debug\Project_II_BookStore.EmployeePinEntryForm.resources
+C:\Users\Rob\Desktop\Robert Plata Project II BookStore\Project II BookStore\obj\Debug\Project_II_BookStore.Properties.Resources.resources
+C:\Users\Rob\Desktop\Robert Plata Project II BookStore\Project II BookStore\obj\Debug\Project_II_BookStore.TransactionSelectForm.resources
+C:\Users\Rob\Desktop\Robert Plata Project II BookStore\Project II BookStore\obj\Debug\Project II BookStore.csproj.GenerateResource.Cache

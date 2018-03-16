@@ -1,0 +1,9 @@
+C:\C# 2015\Chapter 5\FutureValue\FutureValue\bin\Debug\FutureValue.exe.config
+C:\C# 2015\Chapter 5\FutureValue\FutureValue\bin\Debug\FutureValue.exe
+C:\C# 2015\Chapter 5\FutureValue\FutureValue\bin\Debug\FutureValue.pdb
+C:\C# 2015\Chapter 5\FutureValue\FutureValue\obj\Debug\FutureValue.csprojResolveAssemblyReference.cache
+C:\C# 2015\Chapter 5\FutureValue\FutureValue\obj\Debug\FutureValue.frmFutureValue.resources
+C:\C# 2015\Chapter 5\FutureValue\FutureValue\obj\Debug\FutureValue.Properties.Resources.resources
+C:\C# 2015\Chapter 5\FutureValue\FutureValue\obj\Debug\FutureValue.csproj.GenerateResource.Cache
+C:\C# 2015\Chapter 5\FutureValue\FutureValue\obj\Debug\FutureValue.exe
+C:\C# 2015\Chapter 5\FutureValue\FutureValue\obj\Debug\FutureValue.pdb

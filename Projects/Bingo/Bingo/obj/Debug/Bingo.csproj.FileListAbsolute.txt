@@ -1,0 +1,9 @@
+C:\C# 2015\Projects\Bingo\Bingo\bin\Debug\Bingo.exe.config
+C:\C# 2015\Projects\Bingo\Bingo\obj\Debug\Bingo.csprojResolveAssemblyReference.cache
+C:\C# 2015\Projects\Bingo\Bingo\obj\Debug\Bingo.Properties.Resources.resources
+C:\C# 2015\Projects\Bingo\Bingo\obj\Debug\Bingo.csproj.GenerateResource.Cache
+C:\C# 2015\Projects\Bingo\Bingo\bin\Debug\Bingo.exe
+C:\C# 2015\Projects\Bingo\Bingo\bin\Debug\Bingo.pdb
+C:\C# 2015\Projects\Bingo\Bingo\obj\Debug\Bingo.exe
+C:\C# 2015\Projects\Bingo\Bingo\obj\Debug\Bingo.pdb
+C:\C# 2015\Projects\Bingo\Bingo\obj\Debug\Bingo.frmBingo.resources
