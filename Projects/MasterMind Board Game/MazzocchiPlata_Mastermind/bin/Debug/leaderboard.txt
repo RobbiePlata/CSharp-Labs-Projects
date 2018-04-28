@@ -1,0 +1,6 @@
+Rob * Easy * 12 * 154
+Brett * Medium * 6 * 1234
+Erik * Hard * 1 * 20
+Sabrina * Easy * 11 * 152
+Sal * Easy * 4 * 28
+Lauren * Hard * 6 * 36
